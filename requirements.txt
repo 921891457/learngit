@@ -6,7 +6,7 @@ chardet==3.0.4
 Click==7.0
 crypto==1.4.1
 distlib==0.3.0
-Django==3.0.2
+Django==3.0.7
 filelock==3.0.12
 Flask==1.1.1
 Fraction==1.1.0
